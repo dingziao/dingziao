@@ -2,9 +2,9 @@
 
 ## Hi There, I'm Ziao (Devon) Ding 😊 <a href="https://www.linkedin.com/in/ziao-ding/"> <img src="https://img.shields.io/badge/%20Link%20to%20LinkedIn%20-Hire%20Me!%20-blue" /> </a>
 ### Education
-- **M.S., Darmouth College**, `2023 - 2026`
+- **M.S. Dartmouth College**, `2023 - 2026`
   
-- **B.E., Huazhong University of S & T (HUST, China)**, `2019 - 2023`
+- **B.E. Huazhong University of S & T (HUST, China)**, `2019 - 2023`
 
 
 ### Internship Experience
