@@ -12,12 +12,15 @@
 - SDE - [**Amazon**](https://amazon.com) - `05.2025 - 08.2025`
   
 - SDE - [**Microsoft**](https://www.microsoft.com/) - `09.2024 - 01.2025`
-  
 - SDE - [**Tencent**](https://www.tencent.com/en-us/) - `06.2024 - 09.2024`
 - SDE - [**Momenta**](https://www.momenta.cn/en/) - `05.2023 - 08.2023`
 - SDE - [**Zoom**](https://www.zoom.com/) - `08.2022 - 11.2022`
-  
 
+
+<br>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,go,typescript,javascript,aws,azure,github,maven,npm,mysql,dynamodb,mongodb,react,vue,nodejs&perline=8" />
+</div>
 
 
 
