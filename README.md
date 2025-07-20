@@ -4,7 +4,7 @@
 ### Education
 - **M.S. Dartmouth College**, `2023 - 2026`
   
-- **B.E. Huazhong University of S & T (HUST, China)**, `2019 - 2023`
+- **B.E. Huazhong University of Science and Technology (HUST, China)**, `2019 - 2023`
 
 
 ### Internship Experience
